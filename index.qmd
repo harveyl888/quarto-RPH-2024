@@ -117,10 +117,13 @@ Joe Zhu
 
 ## Brian Bole Award of Excellence
 
-::: {.incremental}
+::: {.incremental style="font-size: 80%;"}
 -  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
 -  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
--  This year we're proud to present it to the R Consortium working group for submissions for their incredible work in pushing boundaries for submissions to regulatory agencies.
+-  Previous winners
+    -  {admiral} development team
+    -  Novo Nordisk submissions team
+-  This year we're proud to present it to the R Submissions Working group of the R Consortium for the incredible work they have done for the submissions pilots and pushing the boundaries for future technologies.
 :::
 
 ## Thank You to R/Pharma Sponsors!
@@ -132,11 +135,14 @@ Joe Zhu
 
 ## R/Pharma 2024 Virtual
 
+::: {style="font-size: 80%;"}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
         -  Showcase your open source and community contributions in an Expo booth (link in chat)
 -  Celebrating R/Pharma
     -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/)
     -  #rinpharma in social media
+-  Discussion panels (diversity & submissions) - look out for slido links in chat
 -  R/Pharma Halloween: Sharing "Horror Stories" about R and open source
     -  link in chat
+:::
